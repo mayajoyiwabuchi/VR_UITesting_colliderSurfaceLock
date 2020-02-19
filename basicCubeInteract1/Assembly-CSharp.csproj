@@ -350,6 +350,7 @@
     <Compile Include="Assets\Scripts\ConstraintGrabs.cs" />
     <Compile Include="Assets\Scripts\Constraints.cs" />
     <Compile Include="Assets\Scripts\ControllerGrabObject.cs" />
+    <Compile Include="Assets\Scripts\dragTest.cs" />
     <Compile Include="Assets\Scripts\InteractableBackup.cs" />
     <Compile Include="Assets\Scripts\interaction1.cs" />
     <Compile Include="Assets\Scripts\InteractionCategory.cs" />

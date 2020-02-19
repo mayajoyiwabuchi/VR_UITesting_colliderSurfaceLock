@@ -13,7 +13,9 @@ under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR COND
 ANY KIND, either express or implied. See the License for the specific language governing
 permissions and limitations under the License.
 ************************************************************************************/
-
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine.UI;
 using System;
 using UnityEngine;
 
@@ -33,9 +35,14 @@ public class ConstraintGrabs : MonoBehaviour
     [SerializeField]
     protected Collider[] m_grabPoints = null;
 
-    protected bool m_grabbedKinematic = false;
-    protected Collider m_grabbedCollider = null;
-    protected OVRGrabber m_grabbedBy = null;
+    public bool m_grabbedKinematic = false;
+    public Collider m_grabbedCollider = null;
+    public OVRGrabber m_grabbedBy = null;
+
+
+    
+        public float smoothing = 1f;
+        public Transform constraintArea;
 
     /// <summary>
     /// If true, the object can currently be grabbed.
@@ -116,7 +123,7 @@ public class ConstraintGrabs : MonoBehaviour
     {
         m_grabbedBy = hand;
         m_grabbedCollider = grabPoint;
-        gameObject.GetComponent<Rigidbody>().isKinematic = true;
+        gameObject.GetComponent<Rigidbody>().isKinematic = true; 
     }
 
     /// <summary>
@@ -131,6 +138,7 @@ public class ConstraintGrabs : MonoBehaviour
         m_grabbedBy = null;
         m_grabbedCollider = null;
     }
+
 
     void Awake()
     {
@@ -151,6 +159,41 @@ public class ConstraintGrabs : MonoBehaviour
     protected virtual void Start()
     {
         m_grabbedKinematic = GetComponent<Rigidbody>().isKinematic;
+        StartCoroutine(locationTracker(constraintArea));
+        
     }
+
+    IEnumerator locationTracker(Transform constraintArea)
+    {
+        yield return new WaitForSeconds(1f);
+        float dist = Vector3.Distance(transform.position, constraintArea.position);
+        
+        if (dist < 10f)
+        {
+            StartCoroutine(objEaseIn(constraintArea));
+        }
+
+    }
+
+    IEnumerator objEaseIn(Transform constraintArea)
+    {
+        print("space found");
+        while (Vector3.Distance(transform.position, constraintArea.position) > 0.05f)
+        {
+            transform.position = Vector3.Lerp(transform.position, constraintArea.position, smoothing * Time.deltaTime);
+
+            
+
+            yield return null;
+        }
+
+
+        print("Reached the target.");
+
+        yield return new WaitForSeconds(3f);
+
+        print("MyCoroutine is now finished.");
+    }
+
 
 }
