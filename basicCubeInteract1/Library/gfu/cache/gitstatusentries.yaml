@@ -13,108 +13,438 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-19T12:12:19.993-05:00
-  initializedAtString: 2020-02-19T12:12:19.993-05:00
+  lastUpdatedAtString: 2020-02-19T15:24:41.179-05:00
+  initializedAtString: 2020-02-19T12:42:50.613-05:00
   entries:
+  - path: basicCubeInteract1\.vs\basicCubeInteract1\v15\.suo
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\.vs\basicCubeInteract1\v15\.suo
+    projectPath: .vs\basicCubeInteract1\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\.vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\.vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\.vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\.vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\.vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\.vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\basicCubeInteract1\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: basicCubeInteract1\Assembly-CSharp.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assembly-CSharp.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assembly-CSharp-Editor.csproj
     projectPath: Assembly-CSharp-Editor.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: basicCubeInteract1\Assets\Scenes\scene2.unity
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assets\Scenes\scene2.unity
+    projectPath: Assets\Scenes\scene2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Assets\Scripts\ConstraintGrabs.cs
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assets\Scripts\ConstraintGrabs.cs
+    projectPath: Assets\Scripts\ConstraintGrabs.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Assets\Scripts\ConstraintGrabs.cs.meta
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assets\Scripts\ConstraintGrabs.cs.meta
+    projectPath: Assets\Scripts\ConstraintGrabs.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Assets\Scripts\interaction1.cs
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assets\Scripts\interaction1.cs
+    projectPath: Assets\Scripts\interaction1.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Assets\testMovementScript.cs
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assets\testMovementScript.cs
+    projectPath: Assets\testMovementScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Assets\testMovementScript.cs.meta
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Assets\testMovementScript.cs.meta
+    projectPath: Assets\testMovementScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Library\assetDatabase3
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: basicCubeInteract1\Library\EditorInstance.json
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\EditorInstance.json
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: basicCubeInteract1\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: basicCubeInteract1\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: basicCubeInteract1\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Library\metadata\0f\0f0ec84f4e0effe42b3fa5b68c4a313c
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\metadata\0f\0f0ec84f4e0effe42b3fa5b68c4a313c
+    projectPath: Library\metadata\0f\0f0ec84f4e0effe42b3fa5b68c4a313c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Library\metadata\cb\cbd55111fd0bd6c48969460bbccc9c0e
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\metadata\cb\cbd55111fd0bd6c48969460bbccc9c0e
+    projectPath: Library\metadata\cb\cbd55111fd0bd6c48969460bbccc9c0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Library\metadata\cb\cbd55111fd0bd6c48969460bbccc9c0e.info
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\metadata\cb\cbd55111fd0bd6c48969460bbccc9c0e.info
+    projectPath: Library\metadata\cb\cbd55111fd0bd6c48969460bbccc9c0e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Library\metadata\db\db79ac69689231644aec114553d2917e
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\metadata\db\db79ac69689231644aec114553d2917e
+    projectPath: Library\metadata\db\db79ac69689231644aec114553d2917e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Library\metadata\db\db79ac69689231644aec114553d2917e.info
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\metadata\db\db79ac69689231644aec114553d2917e.info
+    projectPath: Library\metadata\db\db79ac69689231644aec114553d2917e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: basicCubeInteract1\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\Library\StateCache\Hierarchy\ad7f92-mainStage.json
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\StateCache\Hierarchy\ad7f92-mainStage.json
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\StateCache\Hierarchy\ad7f92-mainStage.json
     projectPath: Library\StateCache\Hierarchy\ad7f92-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: basicCubeInteract1\Library\StateCache\SceneView\1867eb-mainStage.json
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Library\StateCache\SceneView\1867eb-mainStage.json
+    projectPath: Library\StateCache\SceneView\1867eb-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: basicCubeInteract1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: basicCubeInteract1\Oculus.VR.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Oculus.VR.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Oculus.VR.csproj
     projectPath: Oculus.VR.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\Oculus.VR.Editor.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Oculus.VR.Editor.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Oculus.VR.Editor.csproj
     projectPath: Oculus.VR.Editor.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\Oculus.VR.Scripts.Editor.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Oculus.VR.Scripts.Editor.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Oculus.VR.Scripts.Editor.csproj
     projectPath: Oculus.VR.Scripts.Editor.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\SteamVR.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR.csproj
     projectPath: SteamVR.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\SteamVR_Actions.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Actions.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Actions.csproj
     projectPath: SteamVR_Actions.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\SteamVR_Editor.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Editor.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Editor.csproj
     projectPath: SteamVR_Editor.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\SteamVR_Input_Editor.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Input_Editor.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Input_Editor.csproj
     projectPath: SteamVR_Input_Editor.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: basicCubeInteract1\SteamVR_Windows_EditorHelper.csproj
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Windows_EditorHelper.csproj
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\SteamVR_Windows_EditorHelper.csproj
     projectPath: SteamVR_Windows_EditorHelper.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: basicCubeInteract1\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: basicCubeInteract1\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: basicCubeInteract1\Temp\UnityLockfile
-    fullPath: C:\Users\mayaj\Desktop\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityLockfile
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-002fe4cd6751d94418ffc41146a3034d
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-002fe4cd6751d94418ffc41146a3034d
+    projectPath: Temp\UnityTempFile-002fe4cd6751d94418ffc41146a3034d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-1745d11305aa3d24396f94102b51b9b1
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-1745d11305aa3d24396f94102b51b9b1
+    projectPath: Temp\UnityTempFile-1745d11305aa3d24396f94102b51b9b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-26d0e53c0746d614d8e972ae3bd814ac
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-26d0e53c0746d614d8e972ae3bd814ac
+    projectPath: Temp\UnityTempFile-26d0e53c0746d614d8e972ae3bd814ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-35e7a6b085ea70048989427a23acb843
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-35e7a6b085ea70048989427a23acb843
+    projectPath: Temp\UnityTempFile-35e7a6b085ea70048989427a23acb843
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-3c419af0fde20e14ba678be433f4db0e
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-3c419af0fde20e14ba678be433f4db0e
+    projectPath: Temp\UnityTempFile-3c419af0fde20e14ba678be433f4db0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-3e5e0a1cf5e2b6a4881b14c104537496
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-3e5e0a1cf5e2b6a4881b14c104537496
+    projectPath: Temp\UnityTempFile-3e5e0a1cf5e2b6a4881b14c104537496
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-49bc63517cbbc964fa15ed0580dd2a03
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-49bc63517cbbc964fa15ed0580dd2a03
+    projectPath: Temp\UnityTempFile-49bc63517cbbc964fa15ed0580dd2a03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-52972db66db80474488ce38a9d8eb022
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-52972db66db80474488ce38a9d8eb022
+    projectPath: Temp\UnityTempFile-52972db66db80474488ce38a9d8eb022
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-5f8dcc30e2df42943a410859468544bb
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-5f8dcc30e2df42943a410859468544bb
+    projectPath: Temp\UnityTempFile-5f8dcc30e2df42943a410859468544bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-6a4cd69f472d1c14e895767200f25583
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-6a4cd69f472d1c14e895767200f25583
+    projectPath: Temp\UnityTempFile-6a4cd69f472d1c14e895767200f25583
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-6b984b7fb423e6440b9924c5d95c5434
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-6b984b7fb423e6440b9924c5d95c5434
+    projectPath: Temp\UnityTempFile-6b984b7fb423e6440b9924c5d95c5434
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-6f208769f508ebf40b039ba35a33d991
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-6f208769f508ebf40b039ba35a33d991
+    projectPath: Temp\UnityTempFile-6f208769f508ebf40b039ba35a33d991
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-70146104ff3b02346a74fed6ac1a06e8
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-70146104ff3b02346a74fed6ac1a06e8
+    projectPath: Temp\UnityTempFile-70146104ff3b02346a74fed6ac1a06e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-865fb0fcd144a4044a32a6a897118435
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-865fb0fcd144a4044a32a6a897118435
+    projectPath: Temp\UnityTempFile-865fb0fcd144a4044a32a6a897118435
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-887b0e3f7b2cb3948935bf81c5125bd3
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-887b0e3f7b2cb3948935bf81c5125bd3
+    projectPath: Temp\UnityTempFile-887b0e3f7b2cb3948935bf81c5125bd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-8fe8b5ffbd301c344bb65bd4958e3891
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-8fe8b5ffbd301c344bb65bd4958e3891
+    projectPath: Temp\UnityTempFile-8fe8b5ffbd301c344bb65bd4958e3891
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-a10b40b06ff95fe469b917270b4bd66e
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-a10b40b06ff95fe469b917270b4bd66e
+    projectPath: Temp\UnityTempFile-a10b40b06ff95fe469b917270b4bd66e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-a37e25b8a2db9e445a32e3f5822cbdf2
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-a37e25b8a2db9e445a32e3f5822cbdf2
+    projectPath: Temp\UnityTempFile-a37e25b8a2db9e445a32e3f5822cbdf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-a46623f485b999d40a6e826cda95608f
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-a46623f485b999d40a6e826cda95608f
+    projectPath: Temp\UnityTempFile-a46623f485b999d40a6e826cda95608f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-a9b35d9f117496a468aa823db5647152
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-a9b35d9f117496a468aa823db5647152
+    projectPath: Temp\UnityTempFile-a9b35d9f117496a468aa823db5647152
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-ad09695a24c1f864280200894d0806cf
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-ad09695a24c1f864280200894d0806cf
+    projectPath: Temp\UnityTempFile-ad09695a24c1f864280200894d0806cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-b018f845f5313ef468e3c398b24b79ae
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-b018f845f5313ef468e3c398b24b79ae
+    projectPath: Temp\UnityTempFile-b018f845f5313ef468e3c398b24b79ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-b616c4afaa71ef74483e594090e245af
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-b616c4afaa71ef74483e594090e245af
+    projectPath: Temp\UnityTempFile-b616c4afaa71ef74483e594090e245af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-bbc7f9fb0c09fb24fb3f5cab9cb3f659
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-bbc7f9fb0c09fb24fb3f5cab9cb3f659
+    projectPath: Temp\UnityTempFile-bbc7f9fb0c09fb24fb3f5cab9cb3f659
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-bcc8fd3358720bd4b8a89371d122acca
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-bcc8fd3358720bd4b8a89371d122acca
+    projectPath: Temp\UnityTempFile-bcc8fd3358720bd4b8a89371d122acca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-d114f9226bf6e8942b55acb441144817
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-d114f9226bf6e8942b55acb441144817
+    projectPath: Temp\UnityTempFile-d114f9226bf6e8942b55acb441144817
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-e6de6d2eecd11b949812bc071d602a58
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-e6de6d2eecd11b949812bc071d602a58
+    projectPath: Temp\UnityTempFile-e6de6d2eecd11b949812bc071d602a58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-ec0c9ac3557153f4884d734525ce1f07
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-ec0c9ac3557153f4884d734525ce1f07
+    projectPath: Temp\UnityTempFile-ec0c9ac3557153f4884d734525ce1f07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: basicCubeInteract1\Temp\UnityTempFile-fad538833746fd146a7fbd7e5530620f
+    fullPath: C:\Users\mayaj\Documents\GitHub\VR_UITesting_colliderSurfaceLock\basicCubeInteract1\Temp\UnityTempFile-fad538833746fd146a7fbd7e5530620f
+    projectPath: Temp\UnityTempFile-fad538833746fd146a7fbd7e5530620f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
